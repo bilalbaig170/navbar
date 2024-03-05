@@ -1,0 +1,17 @@
+.form-container{
+    background-color: rgba(6, 167, 151, 0.639);
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+    width: 25%;
+    height: "100%";
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+    background-image: url(signup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
